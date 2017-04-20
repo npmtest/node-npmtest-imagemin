@@ -1,4 +1,7 @@
-# test coverage for  [imagemin (v5.2.2)](https://github.com/imagemin/imagemin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-imagemin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-imagemin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-imagemin.svg)](https://travis-ci.org/npmtest/node-npmtest-imagemin)
+# npmtest-imagemin
+
+#### basic test coverage for  [imagemin (v5.2.2)](https://github.com/imagemin/imagemin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-imagemin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-imagemin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-imagemin.svg)](https://travis-ci.org/npmtest/node-npmtest-imagemin)
+
 #### Minify images
 
 [![NPM](https://nodei.co/npm/imagemin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/imagemin)
